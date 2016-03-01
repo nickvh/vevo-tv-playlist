@@ -1,0 +1,16 @@
+{
+	"playlists": [{
+		"id": "1",
+		"url": "https://apiv2.vevo.com/playlist/799962e0-1e5a-4e50-aec1-af35b81cb775",
+		"title": "Today’s Featured Videos UK - Updated each day, and throughout the day, with the biggest new premieres."
+	}, {
+		"id": "2",
+		"url": "https://apiv2.vevo.com/playlist/c10fa7fb-9430-4c58-9cec-9bd3c53855ea",
+		"title": "Top 10 Music Videos In The UK - Updated each week with the official most viewed videos in the UK on Vevo"
+	}, {
+		"id": “3”,
+		"url": "https://apiv2.vevo.com/playlist/b8a0b516-d369-4e59-a932-a1a466939481 ",
+		"title": "Top 10 New Artist Music Videos In The UK - Updated each week with the official most viewed videos of NEW ARTISTS in the UK on Vevo"
+	}]
+}
+
